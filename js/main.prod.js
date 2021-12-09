@@ -21,4 +21,4 @@ var initMatrix = function initMatrix() {
   });
 };
 
-setInterval(initMatrix, 60);
+setInterval(initMatrix, 50);
